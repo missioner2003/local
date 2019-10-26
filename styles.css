@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #2e5cb8;
+}
+
+header {
+  height: 90px;
+  width: 100%;
+  background-color: #2e5cb8;
+  border-bottom: 3px groove #1a8cff;
+  display: flex;
+}
+.img1 {
+  max-width: 70%;
+  height: 70%;
+  margin-left: 70px;
+  margin-top: 18px;
+  display: inline-block;
+}
+.p1 {
+  margin-left: 25px;
+  font-size: 2.6em;
+  font-family: monospace;
+  font-weight: 600;
+  color: white;
+  word-spacing: -10px;
+  display: inline-block;
+  text-transform: capitalize;
+  margin-top: 33px;
+}
+article {
+  height: 730px;
+  background-color: #d1d1e0;
+  width: 100%;
+
+}
+.foot1 {
+  height: 100px;
+  width: 100%;
+  background-color: #2e5cb8;
+}
